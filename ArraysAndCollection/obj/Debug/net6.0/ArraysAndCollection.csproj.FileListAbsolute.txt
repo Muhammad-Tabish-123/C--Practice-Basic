@@ -1,0 +1,15 @@
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\bin\Debug\net6.0\ArraysAndCollection.exe
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\bin\Debug\net6.0\ArraysAndCollection.deps.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\bin\Debug\net6.0\ArraysAndCollection.runtimeconfig.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\bin\Debug\net6.0\ArraysAndCollection.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\bin\Debug\net6.0\ArraysAndCollection.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.csproj.AssemblyReference.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.AssemblyInfoInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.AssemblyInfo.cs
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\refint\ArraysAndCollection.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ArraysAndCollection.genruntimeconfig.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ArraysAndCollection\obj\Debug\net6.0\ref\ArraysAndCollection.dll

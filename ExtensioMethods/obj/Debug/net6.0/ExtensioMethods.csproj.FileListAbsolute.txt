@@ -1,0 +1,15 @@
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\bin\Debug\net6.0\ExtensioMethods.exe
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\bin\Debug\net6.0\ExtensioMethods.deps.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\bin\Debug\net6.0\ExtensioMethods.runtimeconfig.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\bin\Debug\net6.0\ExtensioMethods.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\bin\Debug\net6.0\ExtensioMethods.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.csproj.AssemblyReference.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.AssemblyInfoInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.AssemblyInfo.cs
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\refint\ExtensioMethods.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ExtensioMethods.genruntimeconfig.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\ExtensioMethods\obj\Debug\net6.0\ref\ExtensioMethods.dll

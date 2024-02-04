@@ -1,0 +1,15 @@
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\bin\Debug\net6.0\RecpordsExample.exe
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\bin\Debug\net6.0\RecpordsExample.deps.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\bin\Debug\net6.0\RecpordsExample.runtimeconfig.json
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\bin\Debug\net6.0\RecpordsExample.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\bin\Debug\net6.0\RecpordsExample.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.csproj.AssemblyReference.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.AssemblyInfoInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.AssemblyInfo.cs
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\refint\RecpordsExample.dll
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.pdb
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\RecpordsExample.genruntimeconfig.cache
+C:\Users\Muhammad Tabish\source\repos\CSharpPluralSight\RecpordsExample\obj\Debug\net6.0\ref\RecpordsExample.dll
